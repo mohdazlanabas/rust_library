@@ -1,0 +1,1 @@
+/Users/rogerwoolie/Documents/Project_CScience/rust_project/rust-library-practice/conversion-user/target/debug/conversion-user: /Users/rogerwoolie/Documents/Project_CScience/rust_project/rust-library-practice/conversion-lib/src/lib.rs /Users/rogerwoolie/Documents/Project_CScience/rust_project/rust-library-practice/conversion-user/src/main.rs

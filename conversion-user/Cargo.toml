@@ -1,0 +1,11 @@
+[package]
+name = "conversion-user"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Reference the local library using a relative path
+conversion-lib = { path = "../conversion-lib" }
+
+# After publishing to crates.io, you would use:
+# conversion-lib = "0.1.0"

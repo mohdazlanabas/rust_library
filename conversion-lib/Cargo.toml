@@ -1,0 +1,18 @@
+[package]
+name = "conversion-lib"
+version = "0.1.0"
+edition = "2021"
+authors = ["Roger <roger@net1io.com>"]
+description = "A simple unit conversion library for engineering calculations"
+license = "MIT"
+repository = "https://github.com/yourusername/conversion-lib"
+keywords = ["conversion", "units", "engineering"]
+categories = ["science"]
+
+[lib]
+name = "conversion_lib"
+path = "src/lib.rs"
+
+[dependencies]
+
+[dev-dependencies]
